@@ -1,0 +1,5 @@
+# Ignore compiled Haskell files
+*.hi
+*.o
+interpreter
+.vscode
